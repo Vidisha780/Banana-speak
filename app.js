@@ -20,7 +20,7 @@ function clickEventHandler()
 {
     // console.log("Clicked!");
     // console.log("input ", txtInput.value);   //txtInput.value -> taking input and console
-    // outputDiv.innerText = "ajhggfrgdfv " + txtInput.value;      //output  
+    // outputDiv.innerText = txtInput.value;      //output  
 
         var inputText = txtInput.value;     //taking input
     
